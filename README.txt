@@ -10,7 +10,7 @@ GTID: ndhaubanjar3
 	pandas
 
 2. All the optimization codes are implemented based on BURLAP and jython 2.7. Ensure 
-   that you have included ABAGAIL.jar path in all the python files.
+   that you have included burlap.jar path in all the python files.
 
 3. Then, all the algorithm scripts can be run as follows:
 	jython easyGW.py
